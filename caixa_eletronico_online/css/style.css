@@ -1,0 +1,45 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #3bbf7b;
+}
+
+.menu{
+    background-color: aquamarine;
+}
+
+.tabela{
+    margin: 0 auto;
+}
+
+.caixa{
+    background-color: #f5fcfa;
+    box-shadow: black;
+    margin-top: 20px;
+}
+
+.icone i{
+    font-size: 100px;
+    text-align: center;
+
+}
+
+.icone i:hover{
+    color: #e9ed0c;
+    transition: 0.8s;
+}
+
+.fundo{
+    background-color: #dde6d3;
+}
+
+
+.box-inicio{
+    background-color: yellow;
+    border-radius: 20px;
+}
